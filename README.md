@@ -1,1 +1,1 @@
-# gpu-web-scrapper
+# imdb-web-scrapper
